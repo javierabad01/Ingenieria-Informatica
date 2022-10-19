@@ -66,7 +66,7 @@ List related to projects carried out during all the years of studing in [Univers
 <a name="item7"></a>
  - **Análisis y Diseño de Bases de Datos (ADBD)**
  
-   - [Entregas](https://github.com/javierabad01/ADBD)
+   - [Ordenanza Reguladora de los Mercados Municipales](https://github.com/javierabad01/ADBD)
    
 <a name="item8"></a>
  - **Gramáticas y Lenguajes Formales (GLF)**
