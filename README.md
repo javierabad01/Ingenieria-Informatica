@@ -4,16 +4,19 @@ List related to projects carried out during all the years of studing in [Univers
 ## Table of Contents
 
 ### Primer curso:
-#### Primer cuatrimestre: 
-
-#### Segundo cuatrimestre:
-
+- **[Paradigmas de Progamacion (PAR)](#item1)**
+- **[Fundamentos de Computadoras (FCOM)](#item1)**
 
 
 ### Segundo curso:
 #### Primer cuatrimestre: 
+- **[Arquitectura y Organización de Computadoras (AOC)](#item1)**
+- **[Estructura de Datos y Algortimos (EDA)](#item1)**
+- **[Programación Orientada a Objetos (POO)](#item1)**
 
-#### Segundo cuatrimestre:
+#### Segundo Cuatrimestre
+- **[Estructura de Sistemas Operativos (ESO)](#item6)**
+
 
 ### Tercer curso:
 #### Primer cuatrimestre: 
